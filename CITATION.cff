@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+doi: 10.5281/zenodo.4501330
+title: "Title from CITATION.cff"
+authors: 
+  - family-names: Vidner
+    given-names: Olle
+    orcid: https://orcid.org/0000-0002-1157-2480
+license: MIT
+repository-code: https://github.com/ovidner/zenodo-playground
